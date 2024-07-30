@@ -1,4 +1,4 @@
-package kz.dar.university.service;
+package kz.dar.university.service.deprecated;
 
 import kz.dar.university.model.ClientModel;
 
